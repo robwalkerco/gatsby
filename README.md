@@ -4,14 +4,14 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby v2 [beta] · (see <a href="https://github.com/gatsbyjs/gatsby/tree/v1">v1</a>)
+  Gatsby v2
 </h1>
 
 <h3 align="center">
   ⚛️ 📄 :rocket:
 </h3>
 <p align="center">
-  <strong>Blazing fast site generator for React</strong><br>
+  <strong>Blazing fast modern site generator for React</strong><br>
   Go beyond static sites: build blogs, ecommerce sites, full-blown apps, and more with Gatsby.
 </p>
 <p align="center">
@@ -95,7 +95,7 @@ You can get a new Gatsby site up and running on your local dev environment in 5 
     npm install -g gatsby-cli
 
     # create a new Gatsby site using the default starter
-    gatsby new my-blazing-fast-site https://github.com/gatsbyjs/gatsby-starter-default#v2
+    gatsby new my-blazing-fast-site
     ```
 
 2.  **Start the site in `develop` mode.**
@@ -109,7 +109,7 @@ You can get a new Gatsby site up and running on your local dev environment in 5 
 
 3.  **Open the source code and start editing!**
 
-    Your site is now running at `http://localhost:8000`. Open the the `my-blazing-fast-site` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+    Your site is now running at `http://localhost:8000`. Open the `my-blazing-fast-site` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
 At this point, you’ve got a fully functional Gatsby website. For additional information on how you can customize your Gatsby site, see our [plugins](https://next.gatsbyjs.org/plugins/) and [the official tutorial](https://next.gatsbyjs.org/tutorial/).
 
