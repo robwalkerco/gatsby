@@ -2510,3 +2510,15 @@
     - Blog
   built_by: Wire team
   built_by_url: https://github.com/orgs/wireapp/people
+- title: Papertrail PPE Directory
+  description: >
+     Easily browse, search and import products from the Papertrail Product Directory
+  main_url: https://products.papertrail.io/
+  url: https://products.papertrail.io/
+  categories:
+    - Directory
+    - Marketing
+    - Technology
+  built_by: Papertrail.io
+  built_by_url: https://www.papertrail.io
+  featured: false
